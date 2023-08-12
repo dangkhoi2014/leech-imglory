@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+  <item key="version" value="0.6" />
+  <item key="nameTool" value="LoginPortable" />
+  <item key="chrome" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+  <item key="PrimaryScreen_Width" value="1920" />
+  <item key="PrimaryScreen_Height" value="1040" />
+  <item key="versionChrome" value="78.0" />
+  <item key="numbIsRun" value="1" />
+  <item key="cbHeadless" value="False" />
+  <item key="txtUserAge" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" />
+  <item key="IsConnectedToInternet" value="3" />
+  <item key="txtPathChrome" value="C:\Program Files (x86)\Google\Chrome\Application" />
+</Setting>
